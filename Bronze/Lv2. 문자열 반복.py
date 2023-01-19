@@ -17,4 +17,3 @@ for _ in range(t):
 #     for x in s:
 #         print(x*int(r), end='')
 #     print() #줄넘김
-    
