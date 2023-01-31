@@ -9,11 +9,12 @@ for _ in range(t):
             p.append(i)
     print(''.join(p))
 
-# #study
-# t = int(input())
+#STUDY
 
-# for _ in range(t):
-#     r, s = input().split()
-#     for x in s:
-#         print(x*int(r), end='')
-#     print() #줄넘김
+    # t = int(input())
+
+    # for _ in range(t):
+    #     r, s = input().split()
+    #     for x in s:
+    #         print(x*int(r), end='')
+    #     print() #줄넘김

@@ -25,7 +25,8 @@ for i in meetings:
 
 print(cnt)
 
-#study
+#STUDY
+
     # begin, end = (map(int, sys.stdin.readline().split()))
     # meetings.append([begin, end])
     # 위와 같이 따로 변수를 받는 것보다 list()로 한 줄로 묶어서 수행하니 4ms정도 빨라짐

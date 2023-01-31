@@ -11,16 +11,17 @@ for i in range(10):
 value = set(value)
 print(len(value))
 
-# #study
+#STUDY
 
-# #숏코딩
-# value = {int(input())%42 for _ in range(10)}
-# print(len(value))
+    #숏코딩
+    # value = {int(input())%42 for _ in range(10)}
+    # print(len(value))
 
-# # 튜플로 풀어보기
-# value = (int(input())%42 for _ in range(10))
-# print(len(value))
-# # TypeError: object of type 'generator' has no len()
-# #리스트로 다시 변경해주면 통과
-# value = (int(input())%42 for _ in range(10))
-# print(lenlist((value)))
+    # 튜플로 풀어보기
+    # value = (int(input())%42 for _ in range(10))
+    # print(len(value))
+    # TypeError: object of type 'generator' has no len()
+
+    #리스트로 다시 변경해주면 통과
+    # value = (int(input())%42 for _ in range(10))
+    # print(len(list(value)))

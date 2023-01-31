@@ -12,6 +12,7 @@ for i in range(9):
 print(temp)
 print(n+1)
 
-# #study
-# map은 map타입이고 map과 int는 TypeError를 발생시킨다.
-# 비교연산자는 같은 타입이여야 한다.
+#STUDY
+
+    # map은 map타입이고 map과 int는 TypeError를 발생시킨다.
+    # 비교연산자는 같은 타입이여야 한다.

@@ -12,6 +12,7 @@ for _ in range(n):
         sum += score
     print(sum)
 
-# #study
-# https://my-archiver.tistory.com/62 
-# 블로그에 설명
+#STUDY
+
+    # https://my-archiver.tistory.com/62 
+    # 블로그에 설명

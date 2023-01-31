@@ -10,6 +10,5 @@ for i in range(9):
         else:
             temp = temp
 
-
 print(temp)
 print(n+1, m+1)
